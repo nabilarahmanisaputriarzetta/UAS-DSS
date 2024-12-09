@@ -17,7 +17,7 @@ st.markdown("""
     <style>
     .main {
         padding: 2rem;
-        background-color: #fee6ed;
+        background: linear-gradient(#ffedf1, #ffdbe4);
     }
     .stButton>button {
         width: 100%;
